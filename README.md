@@ -6,9 +6,9 @@ How to use
 
 - Open Cmd in this folder and install type: pip install requirements.txt
 
--Open Cmd in folder and type: python DiscordFucker.py
+- Open Cmd in folder and type: python DiscordFucker.py
 
--Enter webhook and choose number.
+- Enter webhook and choose number.
 
 IMPORTANT 
 Please remove the app part from your url.
